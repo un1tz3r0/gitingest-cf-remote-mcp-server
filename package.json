@@ -16,7 +16,7 @@
 		"@modelcontextprotocol/sdk": "1.13.1",
 		"agents": "^0.0.100",
 		"zod": "^3.25.67",
-		"@magarcia/gitingest": "^0.1.5"
+		"@magarcia/gitingest": "^1.1.0"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.0.0",
